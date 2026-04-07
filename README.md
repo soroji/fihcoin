@@ -20,7 +20,7 @@ FIH is a meme-based token created on the Solana blockchain, focusing on communit
 - Type: Meme Token
 - Contract Address: 8SkfuQkYNTskoQUbbjr2JbZQeqQV9egnJXgfMXf5bonk
 
-- 
+
 ---
 
 ## ⚙️ FIHPT Token (opBNB)
@@ -33,7 +33,7 @@ FIHPT is a utility token within the FIH ecosystem. It is distributed through min
 
 - Contract Address : 0xf9352f96efce2e66ef67321852150bfe3f692a8b
 
-- 
+
 ---
 
 ## 🔥 Key Features
