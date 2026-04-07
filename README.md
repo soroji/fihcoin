@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo3.jpg" width="180"/>
+</p>
+
 # FIH Ecosystem (FIH & FIHPT)
 
 https://www.fin.money
